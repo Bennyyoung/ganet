@@ -10,7 +10,8 @@ import {
   Center,
   Textarea,
   Grid,
-  GridItem
+  GridItem,
+  Button
 
 } from '@chakra-ui/react'
 
@@ -62,6 +63,7 @@ export default function Contact() {
             <FormLabel htmlFor='name'>Comments</FormLabel>
             <Textarea placeholder='Comments' />
           </FormControl>
+          <Button mt={4} colorScheme='purple'>Submit</Button>
 
         </Box>
       </GridItem>
