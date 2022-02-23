@@ -54,7 +54,7 @@ export default function About() {
 
   <Box pb={3}>
    <Text>
-    A just and fair socierty where women are fully empowered to participate and benefit from decision making processes.
+    A just and fair society where women are fully empowered to participate and benefit from decision making processes.
    </Text>
   </Box>
 
@@ -123,6 +123,110 @@ export default function About() {
     </li>
    </ol>
   </Box>
+
+  <Box pb={3}>
+   <Text style={{ fontWeight: '500' }} color='red'>
+    OUR PROGRAM AREAS:
+   </Text>
+   <ol>
+    <li>
+     GANET LEGAL ADVOCACY PROGRAMMER (GALAP)
+    </li>
+    <li>
+     Gender Based Violence (Violence free safe space + Help lines)
+
+    </li>
+    <li>
+     Gender Responsive Budgetting
+    </li>
+    <li>
+     Women's Political Participation
+    </li>
+    <li>
+     Community Empowerment
+    </li>
+    <li>
+     Policy Engagement and Strategic Partnerships.
+    </li>
+    <li>
+     Institutional and Capacity Developement (Research and Training Centre for Women's Leadership)
+    </li>
+    <li>
+     Women's Right Education Program (WREP)
+    </li>
+   </ol>
+  </Box>
+
+  <Box pb={3}>
+   <Box>
+    <Text style={{ fontWeight: '500' }} color='white' bg='purple' p='3'>
+     GOVERNANCE AND STRUCTURE OF GANET
+    </Text>
+
+   </Box>
+   <ol>
+    <li>
+     Board of Directors
+    </li>
+    <li>
+     Central Working Committe (CWC) 
+
+    </li>
+    <li>
+     The National Coordinator
+    </li>
+    <li>
+     Deputy National Coordinator
+    </li>
+    <li>
+     Regional Coordinator
+    </li>
+    <li>
+     The General Assembly
+    </li>
+    <li>
+     Secretariat (Progamme Officer, Assistant, Field Officers)
+    </li>
+   </ol>
+  </Box>
+
+  <Box pb={3}>
+   <Box>
+    <Text style={{ fontWeight: '500' }} color='black' p='2'>
+     MEMBERSHIP:
+    </Text>
+
+   </Box>
+   <Text>
+     GANET has two categories of membership:
+    </Text>
+   <ol>
+    <li>
+     Full Membership - Open to women groups and individual women who share our values and goals
+    </li>
+    <li>
+     Associate Membership - Involves men and women (Young/Middle Aged) corporate entities and bodies that share our vision and goals 
+
+    </li>
+    <li>
+     The National Coordinator
+    </li>
+    <li>
+     Deputy National Coordinator
+    </li>
+    <li>
+     Regional Coordinator
+    </li>
+    <li>
+     The General Assembly
+    </li>
+    <li>
+     Secretariat (Progamme Officer, Assistant, Field Officers)
+    </li>
+   </ol>
+  </Box>
+
+  
 
  </div>;
 }
