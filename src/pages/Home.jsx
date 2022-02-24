@@ -6,11 +6,11 @@ export default function Home() {
   return <div>
     <Banner />
 
-    <Box mt={6} mb={6}>
-      <Center>'
         <Heading>
           GANET ORGANIZATIONAL CHART
         </Heading>
+    <Box mt={6} mb={6}>
+      <Center>'
 
         <img src={goc} />
       </Center>
