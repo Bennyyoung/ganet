@@ -23,7 +23,10 @@ export default function Banner() {
 ];
 
  return <div>
+   <Box mt={5} mb={5}>
+
    <ImageGallery items={images} />
+   </Box>
   
  </div>;
 }

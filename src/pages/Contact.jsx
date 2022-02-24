@@ -34,7 +34,6 @@ export default function Contact() {
     </Text>
         <Box m={6}>
           <Text mb={3}>GENDER ADVOCACY NETWORK (GANET)</Text>
-
           <Text mb={3}><span style={{ fontWeight: '500' }}>Phone number: </span> 07065495376</Text>
           <Text mb={3}><span style={{ fontWeight: '500' }}>Email: </span> genderadvocacy13@gmail.com</Text>
           <Text mb={3}><span style={{ fontWeight: '500' }}>Address: </span> Plot 13A Location Road Orazi - G.R.A Link Road, PH</Text>

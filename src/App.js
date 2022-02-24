@@ -1,5 +1,5 @@
 import { Routes, Route, BrowserRouter as Router } from 'react-router-dom'
-import { Navbar } from './components'
+import { Footer, Navbar } from './components'
 import { Home, About, Contact } from './pages'
 import { Container, Box } from '@chakra-ui/react'
 
@@ -20,6 +20,11 @@ function App() {
         </Routes>
 
       </Container>
+
+      <Box mb={5} p={5} bg='gray.100'>
+
+        <Footer />
+      </Box>
 
     </Container>
   );
