@@ -11,7 +11,7 @@ export default function About() {
 
   <Box pb={3}>
    <Text>
-    Gender Advocacy Network (GANET) started in 2012 by a group of activists who saw the need for women to play  a more proactive role in promioting gender justice in the Niger Delta
+    Gender Advocacy Network (GANET) started in 2012 by a group of activists who saw the need for women to play  a more proactive role in promoting gender justice in the Niger Delta
    </Text>
   </Box>
 
